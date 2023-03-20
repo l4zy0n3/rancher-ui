@@ -9,8 +9,8 @@
 }
 ```
 
-2. Pass the baseurl variable to cypress
+2. Pass the baseurl variable to cypress and run the tests
 
 ```bash
-cypress run --env baseurl=<url>
+npx cypress run --env baseurl=<url>
 ```
