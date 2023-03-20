@@ -1,6 +1,6 @@
 import { HomePage } from "../page-objects/HomePage";
 
-describe("template spec", () => {
+describe("Rancher Homepage e2e", () => {
   beforeEach(() => {
     cy.visit("");
     cy.login();
