@@ -1,0 +1,13 @@
+{
+  "name": "rancher-ui",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
